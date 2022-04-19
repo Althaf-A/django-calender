@@ -6,7 +6,7 @@
 
 ## How To Setup
 ```
-git clone https://github.com/sajib1066/event-calendar.git
+https://github.com/Althaf-A/django-calender.git
 ```
 ```
 cd event-calendar
